@@ -1,1 +1,2 @@
-# 8086-assembler
+# 8086 assembler
+Very simple assembly codes :)
