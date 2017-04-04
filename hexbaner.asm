@@ -1,4 +1,4 @@
-
+;program otrzymuje cyfre w systemie hex i przerabia ja na bin wyswietlajac w postaci baneru
 .model small
 .stack 
 CR	equ	13d;carriage return
